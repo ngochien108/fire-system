@@ -13,8 +13,8 @@ idf_component_register(
         driver
         log
         esp_system
+        json
         mq2
         ds18b20
-        flame_sensor
         rf
 )

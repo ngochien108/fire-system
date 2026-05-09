@@ -9,7 +9,7 @@
     "nvs_flash.h": "c"
   },
   "idf.pythonInstallPath": "C:\\Espressif\\tools\\idf-python\\3.11.2\\python.exe",
-  "idf.portWin": "COM7",
+  "idf.portWin": "COM8",
   "idf.customExtraVars": {
     "IDF_TARGET": "esp32"
   },

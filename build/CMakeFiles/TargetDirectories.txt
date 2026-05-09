@@ -852,13 +852,6 @@ C:/Users/dinht/OneDrive/Documents/pbl3-20260322T134427Z-3-001/pbl3/build/esp-idf
 C:/Users/dinht/OneDrive/Documents/pbl3-20260322T134427Z-3-001/pbl3/build/esp-idf/ds18b20/CMakeFiles/install.dir
 C:/Users/dinht/OneDrive/Documents/pbl3-20260322T134427Z-3-001/pbl3/build/esp-idf/ds18b20/CMakeFiles/install/local.dir
 C:/Users/dinht/OneDrive/Documents/pbl3-20260322T134427Z-3-001/pbl3/build/esp-idf/ds18b20/CMakeFiles/install/strip.dir
-C:/Users/dinht/OneDrive/Documents/pbl3-20260322T134427Z-3-001/pbl3/build/esp-idf/flame_sensor/CMakeFiles/__idf_flame_sensor.dir
-C:/Users/dinht/OneDrive/Documents/pbl3-20260322T134427Z-3-001/pbl3/build/esp-idf/flame_sensor/CMakeFiles/edit_cache.dir
-C:/Users/dinht/OneDrive/Documents/pbl3-20260322T134427Z-3-001/pbl3/build/esp-idf/flame_sensor/CMakeFiles/rebuild_cache.dir
-C:/Users/dinht/OneDrive/Documents/pbl3-20260322T134427Z-3-001/pbl3/build/esp-idf/flame_sensor/CMakeFiles/list_install_components.dir
-C:/Users/dinht/OneDrive/Documents/pbl3-20260322T134427Z-3-001/pbl3/build/esp-idf/flame_sensor/CMakeFiles/install.dir
-C:/Users/dinht/OneDrive/Documents/pbl3-20260322T134427Z-3-001/pbl3/build/esp-idf/flame_sensor/CMakeFiles/install/local.dir
-C:/Users/dinht/OneDrive/Documents/pbl3-20260322T134427Z-3-001/pbl3/build/esp-idf/flame_sensor/CMakeFiles/install/strip.dir
 C:/Users/dinht/OneDrive/Documents/pbl3-20260322T134427Z-3-001/pbl3/build/esp-idf/rf/CMakeFiles/__idf_rf.dir
 C:/Users/dinht/OneDrive/Documents/pbl3-20260322T134427Z-3-001/pbl3/build/esp-idf/rf/CMakeFiles/edit_cache.dir
 C:/Users/dinht/OneDrive/Documents/pbl3-20260322T134427Z-3-001/pbl3/build/esp-idf/rf/CMakeFiles/rebuild_cache.dir

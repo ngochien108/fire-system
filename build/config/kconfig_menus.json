@@ -5284,6 +5284,64 @@
     {
         "children": [
             {
+                "children": [],
+                "depends_on": null,
+                "help": "Wi-Fi network name used by the ESP32 gateway.",
+                "id": "PBL3_WIFI_SSID",
+                "name": "PBL3_WIFI_SSID",
+                "range": null,
+                "title": "Wi-Fi SSID",
+                "type": "string"
+            },
+            {
+                "children": [],
+                "depends_on": null,
+                "help": "Wi-Fi password used by the ESP32 gateway.",
+                "id": "PBL3_WIFI_PASSWORD",
+                "name": "PBL3_WIFI_PASSWORD",
+                "range": null,
+                "title": "Wi-Fi password",
+                "type": "string"
+            },
+            {
+                "children": [],
+                "depends_on": null,
+                "help": "HiveMQ Cloud MQTT over TLS endpoint. Use mqtts://host:8883.",
+                "id": "PBL3_MQTT_BROKER_URI",
+                "name": "PBL3_MQTT_BROKER_URI",
+                "range": null,
+                "title": "HiveMQ broker URI",
+                "type": "string"
+            },
+            {
+                "children": [],
+                "depends_on": null,
+                "help": "Username created in HiveMQ Cloud Access Management.",
+                "id": "PBL3_MQTT_USERNAME",
+                "name": "PBL3_MQTT_USERNAME",
+                "range": null,
+                "title": "HiveMQ username",
+                "type": "string"
+            },
+            {
+                "children": [],
+                "depends_on": null,
+                "help": "Password created in HiveMQ Cloud Access Management.",
+                "id": "PBL3_MQTT_PASSWORD",
+                "name": "PBL3_MQTT_PASSWORD",
+                "range": null,
+                "title": "HiveMQ password",
+                "type": "string"
+            }
+        ],
+        "depends_on": null,
+        "id": "pbl3-hivemq-configuration",
+        "title": "PBL3 HiveMQ Configuration",
+        "type": "menu"
+    },
+    {
+        "children": [
+            {
                 "children": [
                     {
                         "children": [],
